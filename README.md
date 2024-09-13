@@ -1,3 +1,18 @@
+# Direct Installation without Virtual Environment
+```
+git clone https://github.com/myshell-ai/MeloTTS.git
+```
+```
+cd MeloTTS
+```
+```
+pip install .
+```
+```
+python -m unidic download
+```
+
+
 # MeloTTS Setup with Virtual Environment
 
 Follow these steps to set up MeloTTS with a virtual environment:
@@ -33,17 +48,5 @@ deactivate
 ```
 
 
-# Direct Installation without Virtual Environment
-```
-git clone https://github.com/myshell-ai/MeloTTS.git
-```
-```
-cd MeloTTS
-```
-```
-pip install .
-```
-```
-python -m unidic download
-```
+
 
