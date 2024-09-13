@@ -33,3 +33,17 @@ deactivate
 ```
 
 
+# Direct Installation without Virtual Environment
+```
+git clone https://github.com/myshell-ai/MeloTTS.git
+```
+```
+cd MeloTTS
+```
+```
+pip install .
+```
+```
+python -m unidic download
+```
+
