@@ -1,5 +1,3 @@
-# MeloTTS Installation
-
 # MeloTTS Setup with Virtual Environment
 
 Follow these steps to set up MeloTTS with a virtual environment:
