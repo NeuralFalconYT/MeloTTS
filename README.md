@@ -48,5 +48,8 @@ deactivate
 ```
 
 
+# MeloTTS Audio Dataset Maker<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/MeloTTS/blob/main/MeloTTS_Audio_Dataset_Maker.ipynb) <br>
+
 
 
