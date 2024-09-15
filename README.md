@@ -51,5 +51,8 @@ deactivate
 # MeloTTS Audio Dataset Maker<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/MeloTTS/blob/main/MeloTTS_Dataset_Maker_From_YouTube_Video_OR_Large_Audio.ipynb) <br>
 
+# MeloTTS Train on Custom Data<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/MeloTTS/blob/main/Mello_TTS_Train_on_Custom_Data.ipynb) <br>
+
 
 
