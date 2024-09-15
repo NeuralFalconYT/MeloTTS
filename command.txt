@@ -1,0 +1,11 @@
+##Install
+git clone https://github.com/myshell-ai/MeloTTS.git
+cd MeloTTS
+pip install .
+python -m unidic download
+
+pip install -U openai-whisper
+##Sources
+https://github.com/myshell-ai/MeloTTS
+https://github.com/myshell-ai/MeloTTS/blob/main/docs/install.md#linux-and-macos-install
+https://github.com/myshell-ai/MeloTTS/blob/main/docs/training.md
