@@ -49,7 +49,7 @@ deactivate
 
 
 # MeloTTS Audio Dataset Maker<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/MeloTTS/blob/main/MeloTTS_Audio_Dataset_Maker.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/MeloTTS/blob/main/MeloTTS_Dataset_Maker_From_YouTube_Video_OR_Large_Audio.ipynb) <br>
 
 
 
